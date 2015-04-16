@@ -5,4 +5,4 @@ Agenda:
 * Learn git
 * not sure
 * Steve to add
-* Francis to add
+* Francis to add - hello world
