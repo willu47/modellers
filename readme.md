@@ -4,5 +4,5 @@ Agenda:
 
 * Learn git
 * not sure
-* Steve to add
+* Steve to add (now that he has found the folder!)
 * Francis to add
